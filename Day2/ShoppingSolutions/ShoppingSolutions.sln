@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{3881BC7A-1D33-43F1-9738-31711D658A6E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProductCatalog", "ProductCatalog", "{5AAF807E-1729-43C5-88EA-8A1009B31F5C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{FFFB8B7F-1F3F-4151-B5C7-778417F7536F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ShoppingBasket", "ShoppingBasket", "{7D82B6D8-F3F1-4C94-95BE-03EA7CCA9B54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductCatalog.API", "ProductCatalog.API\ProductCatalog.API.csproj", "{EC48AA79-4015-49D1-BD8D-9DC387A228BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC48AA79-4015-49D1-BD8D-9DC387A228BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC48AA79-4015-49D1-BD8D-9DC387A228BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC48AA79-4015-49D1-BD8D-9DC387A228BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC48AA79-4015-49D1-BD8D-9DC387A228BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5AAF807E-1729-43C5-88EA-8A1009B31F5C} = {3881BC7A-1D33-43F1-9738-31711D658A6E}
+		{7D82B6D8-F3F1-4C94-95BE-03EA7CCA9B54} = {3881BC7A-1D33-43F1-9738-31711D658A6E}
+		{EC48AA79-4015-49D1-BD8D-9DC387A228BC} = {5AAF807E-1729-43C5-88EA-8A1009B31F5C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C83EFC4A-7FE1-45A4-B7AB-96EFBD38FDA6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\KOENIG\LiveSessions\MicroservicesCashpor\Day2\SimpleUnitTest\CalcuBusinessLogicLib\bin\Debug\net8.0\CalcuBusinessLogicLib.deps.json
+C:\KOENIG\LiveSessions\MicroservicesCashpor\Day2\SimpleUnitTest\CalcuBusinessLogicLib\bin\Debug\net8.0\CalcuBusinessLogicLib.dll
+C:\KOENIG\LiveSessions\MicroservicesCashpor\Day2\SimpleUnitTest\CalcuBusinessLogicLib\bin\Debug\net8.0\CalcuBusinessLogicLib.pdb
+C:\KOENIG\LiveSessions\MicroservicesCashpor\Day2\SimpleUnitTest\CalcuBusinessLogicLib\obj\Debug\net8.0\CalcuBusinessLogicLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\KOENIG\LiveSessions\MicroservicesCashpor\Day2\SimpleUnitTest\CalcuBusinessLogicLib\obj\Debug\net8.0\CalcuBusinessLogicLib.AssemblyInfoInputs.cache
+C:\KOENIG\LiveSessions\MicroservicesCashpor\Day2\SimpleUnitTest\CalcuBusinessLogicLib\obj\Debug\net8.0\CalcuBusinessLogicLib.AssemblyInfo.cs
+C:\KOENIG\LiveSessions\MicroservicesCashpor\Day2\SimpleUnitTest\CalcuBusinessLogicLib\obj\Debug\net8.0\CalcuBusinessLogicLib.csproj.CoreCompileInputs.cache
+C:\KOENIG\LiveSessions\MicroservicesCashpor\Day2\SimpleUnitTest\CalcuBusinessLogicLib\obj\Debug\net8.0\CalcuBusinessLogicLib.dll
+C:\KOENIG\LiveSessions\MicroservicesCashpor\Day2\SimpleUnitTest\CalcuBusinessLogicLib\obj\Debug\net8.0\refint\CalcuBusinessLogicLib.dll
+C:\KOENIG\LiveSessions\MicroservicesCashpor\Day2\SimpleUnitTest\CalcuBusinessLogicLib\obj\Debug\net8.0\CalcuBusinessLogicLib.pdb
+C:\KOENIG\LiveSessions\MicroservicesCashpor\Day2\SimpleUnitTest\CalcuBusinessLogicLib\obj\Debug\net8.0\ref\CalcuBusinessLogicLib.dll
