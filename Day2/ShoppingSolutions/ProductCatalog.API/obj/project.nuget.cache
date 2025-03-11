@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dBZGMbbKyx4=",
+  "dgSpecHash": "dFcdf+oLZxc=",
   "success": true,
-  "projectFilePath": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\ProductCatalog.API.csproj",
+  "projectFilePath": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\ProductCatalog.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kanna\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\kanna\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

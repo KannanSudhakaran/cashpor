@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\ProductCatalog.API.csproj": {}
+    "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\ProductCatalog.API.csproj": {}
   },
   "projects": {
-    "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\ProductCatalog.API.csproj": {
+    "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\ProductCatalog.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\ProductCatalog.API.csproj",
+        "projectUniqueName": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\ProductCatalog.API.csproj",
         "projectName": "ProductCatalog.API",
-        "projectPath": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\ProductCatalog.API.csproj",
+        "projectPath": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\ProductCatalog.API.csproj",
         "packagesPath": "C:\\Users\\kanna\\.nuget\\packages\\",
-        "outputPath": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\obj\\",
+        "outputPath": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kanna\\AppData\\Roaming\\NuGet\\NuGet.Config",
