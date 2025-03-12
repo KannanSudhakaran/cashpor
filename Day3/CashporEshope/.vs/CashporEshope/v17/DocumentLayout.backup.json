@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\CashporEshope\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{633B47EE-9AB8-43E9-9057-E498FDC59CB8}|ProductCatalog.API\\ProductCatalog.API.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\day3\\cashporeshope\\productcatalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{633B47EE-9AB8-43E9-9057-E498FDC59CB8}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633B47EE-9AB8-43E9-9057-E498FDC59CB8}|ProductCatalog.API\\ProductCatalog.API.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\day3\\cashporeshope\\productcatalog.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{633B47EE-9AB8-43E9-9057-E498FDC59CB8}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633B47EE-9AB8-43E9-9057-E498FDC59CB8}|ProductCatalog.API\\ProductCatalog.API.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\day3\\cashporeshope\\productcatalog.api\\controllers\\catalogitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633B47EE-9AB8-43E9-9057-E498FDC59CB8}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\controllers\\catalogitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633B47EE-9AB8-43E9-9057-E498FDC59CB8}|ProductCatalog.API\\ProductCatalog.API.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\day3\\cashporeshope\\productcatalog.api\\productcatalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{633B47EE-9AB8-43E9-9057-E498FDC59CB8}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\productcatalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633B47EE-9AB8-43E9-9057-E498FDC59CB8}|ProductCatalog.API\\ProductCatalog.API.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\day3\\cashporeshope\\productcatalog.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{633B47EE-9AB8-43E9-9057-E498FDC59CB8}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633B47EE-9AB8-43E9-9057-E498FDC59CB8}|ProductCatalog.API\\ProductCatalog.API.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\day3\\cashporeshope\\productcatalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633B47EE-9AB8-43E9-9057-E498FDC59CB8}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C7D5CD-F8F0-4BC4-8E77-CF0DFA187D90}|ProductCatalog.EFRepositories\\ProductCatalog.EFRepositories.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\day3\\cashporeshope\\productcatalog.efrepositories\\productcatalog.efrepositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{36C7D5CD-F8F0-4BC4-8E77-CF0DFA187D90}|ProductCatalog.EFRepositories\\ProductCatalog.EFRepositories.csproj|solutionrelative:productcatalog.efrepositories\\productcatalog.efrepositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\CashporEshope\\ProductCatalog.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\appsettings.Development.json",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\CashporEshope\\ProductCatalog.API\\appsettings.Development.json",
+              "RelativeToolTip": "ProductCatalog.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T06:03:23.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\CashporEshope\\ProductCatalog.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\appsettings.json",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\CashporEshope\\ProductCatalog.API\\appsettings.json",
+              "RelativeToolTip": "ProductCatalog.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T05:31:35.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCatalog.API",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\CashporEshope\\ProductCatalog.API\\ProductCatalog.API.csproj",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\ProductCatalog.API.csproj",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\CashporEshope\\ProductCatalog.API\\ProductCatalog.API.csproj",
+              "RelativeToolTip": "ProductCatalog.API\\ProductCatalog.API.csproj",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwBcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-12T05:43:09.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatalogItemController.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\CashporEshope\\ProductCatalog.API\\Controllers\\CatalogItemController.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Controllers\\CatalogItemController.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\CashporEshope\\ProductCatalog.API\\Controllers\\CatalogItemController.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Controllers\\CatalogItemController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:26:11.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\CashporEshope\\ProductCatalog.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\CashporEshope\\ProductCatalog.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductCatalog.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T06:03:08.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\CashporEshope\\ProductCatalog.API\\Program.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Program.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\CashporEshope\\ProductCatalog.API\\Program.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:37:23.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductCatalog.EFRepositories",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\CashporEshope\\ProductCatalog.EFRepositories\\ProductCatalog.EFRepositories.csproj",
+              "RelativeDocumentMoniker": "ProductCatalog.EFRepositories\\ProductCatalog.EFRepositories.csproj",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\CashporEshope\\ProductCatalog.EFRepositories\\ProductCatalog.EFRepositories.csproj",
+              "RelativeToolTip": "ProductCatalog.EFRepositories\\ProductCatalog.EFRepositories.csproj",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-12T05:43:18.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

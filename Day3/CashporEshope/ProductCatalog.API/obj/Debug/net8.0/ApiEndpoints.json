@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ProductCatalog.API.Controllers.CatalogItemController",
+    "Method": "GetCatalogItems",
+    "RelativePath": "api/CatalogItem",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

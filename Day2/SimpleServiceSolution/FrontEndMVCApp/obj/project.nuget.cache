@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L2XO78xCR9Q=",
+  "dgSpecHash": "a0+mU3wOPBA=",
   "success": true,
-  "projectFilePath": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\Day2\\SimpleServiceSolution\\FrontEndMVCApp\\FrontEndMVCApp.csproj",
+  "projectFilePath": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day2\\SimpleServiceSolution\\FrontEndMVCApp\\FrontEndMVCApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kanna\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\kanna\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

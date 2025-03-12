@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\Day2\\SimpleServiceSolution\\FrontEndMVCApp\\FrontEndMVCApp.csproj": {}
+    "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day2\\SimpleServiceSolution\\FrontEndMVCApp\\FrontEndMVCApp.csproj": {}
   },
   "projects": {
-    "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\Day2\\SimpleServiceSolution\\FrontEndMVCApp\\FrontEndMVCApp.csproj": {
+    "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day2\\SimpleServiceSolution\\FrontEndMVCApp\\FrontEndMVCApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\Day2\\SimpleServiceSolution\\FrontEndMVCApp\\FrontEndMVCApp.csproj",
+        "projectUniqueName": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day2\\SimpleServiceSolution\\FrontEndMVCApp\\FrontEndMVCApp.csproj",
         "projectName": "FrontEndMVCApp",
-        "projectPath": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\Day2\\SimpleServiceSolution\\FrontEndMVCApp\\FrontEndMVCApp.csproj",
+        "projectPath": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day2\\SimpleServiceSolution\\FrontEndMVCApp\\FrontEndMVCApp.csproj",
         "packagesPath": "C:\\Users\\kanna\\.nuget\\packages\\",
-        "outputPath": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\Day2\\SimpleServiceSolution\\FrontEndMVCApp\\obj\\",
+        "outputPath": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day2\\SimpleServiceSolution\\FrontEndMVCApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kanna\\AppData\\Roaming\\NuGet\\NuGet.Config",

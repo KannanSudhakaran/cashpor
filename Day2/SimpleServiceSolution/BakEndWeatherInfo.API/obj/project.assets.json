@@ -452,11 +452,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\Day2\\SimpleServiceSolution\\BakEndWeatherInfo.API\\BakEndWeatherInfo.API.csproj",
+      "projectUniqueName": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day2\\SimpleServiceSolution\\BakEndWeatherInfo.API\\BakEndWeatherInfo.API.csproj",
       "projectName": "BakEndWeatherInfo.API",
-      "projectPath": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\Day2\\SimpleServiceSolution\\BakEndWeatherInfo.API\\BakEndWeatherInfo.API.csproj",
+      "projectPath": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day2\\SimpleServiceSolution\\BakEndWeatherInfo.API\\BakEndWeatherInfo.API.csproj",
       "packagesPath": "C:\\Users\\kanna\\.nuget\\packages\\",
-      "outputPath": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\Day2\\SimpleServiceSolution\\BakEndWeatherInfo.API\\obj\\",
+      "outputPath": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day2\\SimpleServiceSolution\\BakEndWeatherInfo.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kanna\\AppData\\Roaming\\NuGet\\NuGet.Config",
