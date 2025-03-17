@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day4\\CashporEshope\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day4\\cashporeshope\\mvcwebapp\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day4\\cashporeshope\\mvcwebapp\\services\\icataloghttpservcie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\services\\icataloghttpservcie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day4\\cashporeshope\\mvcwebapp\\services\\cataloghttpservcie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\services\\cataloghttpservcie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day4\\cashporeshope\\mvcwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day4\\cashporeshope\\mvcwebapp\\views\\catalog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\views\\catalog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day4\\cashporeshope\\mvcwebapp\\models\\catalogitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\models\\catalogitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633B47EE-9AB8-43E9-9057-E498FDC59CB8}|ProductCatalog.API\\ProductCatalog.API.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day4\\cashporeshope\\productcatalog.api\\controllers\\catalogitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633B47EE-9AB8-43E9-9057-E498FDC59CB8}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\controllers\\catalogitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633B47EE-9AB8-43E9-9057-E498FDC59CB8}|ProductCatalog.API\\ProductCatalog.API.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day4\\cashporeshope\\productcatalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633B47EE-9AB8-43E9-9057-E498FDC59CB8}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day4\\cashporeshope\\mvcwebapp\\views\\catalog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\views\\catalog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day4\\cashporeshope\\mvcwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C7D5CD-F8F0-4BC4-8E77-CF0DFA187D90}|ProductCatalog.EFRepositories\\ProductCatalog.EFRepositories.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day4\\cashporeshope\\productcatalog.efrepositories\\cataloggenericreposiotry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C7D5CD-F8F0-4BC4-8E77-CF0DFA187D90}|ProductCatalog.EFRepositories\\ProductCatalog.EFRepositories.csproj|solutionrelative:productcatalog.efrepositories\\cataloggenericreposiotry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C14A718-6511-4973-B9EA-E3E210EA9F3E}|ProductCatalog.BusinessObjects\\ProductCatalog.BusinessObjects.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day4\\cashporeshope\\productcatalog.businessobjects\\catalogitembo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C14A718-6511-4973-B9EA-E3E210EA9F3E}|ProductCatalog.BusinessObjects\\ProductCatalog.BusinessObjects.csproj|solutionrelative:productcatalog.businessobjects\\catalogitembo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day4\\CashporEshope\\MvcWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day4\\CashporEshope\\MvcWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:16:35.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatalogController.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day4\\CashporEshope\\MvcWebApp\\Controllers\\CatalogController.cs",
+              "RelativeDocumentMoniker": "MvcWebApp\\Controllers\\CatalogController.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day4\\CashporEshope\\MvcWebApp\\Controllers\\CatalogController.cs",
+              "RelativeToolTip": "MvcWebApp\\Controllers\\CatalogController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:44:20.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day4\\CashporEshope\\MvcWebApp\\Views\\Catalog\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MvcWebApp\\Views\\Catalog\\Edit.cshtml",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day4\\CashporEshope\\MvcWebApp\\Views\\Catalog\\Edit.cshtml",
+              "RelativeToolTip": "MvcWebApp\\Views\\Catalog\\Edit.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T05:58:53.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatalogHttpServcie.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day4\\CashporEshope\\MvcWebApp\\Services\\CatalogHttpServcie.cs",
+              "RelativeDocumentMoniker": "MvcWebApp\\Services\\CatalogHttpServcie.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day4\\CashporEshope\\MvcWebApp\\Services\\CatalogHttpServcie.cs",
+              "RelativeToolTip": "MvcWebApp\\Services\\CatalogHttpServcie.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:36:01.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICatalogHttpServcie.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day4\\CashporEshope\\MvcWebApp\\Services\\ICatalogHttpServcie.cs",
+              "RelativeDocumentMoniker": "MvcWebApp\\Services\\ICatalogHttpServcie.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day4\\CashporEshope\\MvcWebApp\\Services\\ICatalogHttpServcie.cs",
+              "RelativeToolTip": "MvcWebApp\\Services\\ICatalogHttpServcie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:54:24.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CatalogItemDTO.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day4\\CashporEshope\\MvcWebApp\\Models\\CatalogItemDTO.cs",
+              "RelativeDocumentMoniker": "MvcWebApp\\Models\\CatalogItemDTO.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day4\\CashporEshope\\MvcWebApp\\Models\\CatalogItemDTO.cs",
+              "RelativeToolTip": "MvcWebApp\\Models\\CatalogItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:09:18.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day4\\CashporEshope\\MvcWebApp\\Views\\Catalog\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcWebApp\\Views\\Catalog\\Index.cshtml",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day4\\CashporEshope\\MvcWebApp\\Views\\Catalog\\Index.cshtml",
+              "RelativeToolTip": "MvcWebApp\\Views\\Catalog\\Index.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswD8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T05:44:59.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day4\\CashporEshope\\MvcWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "MvcWebApp\\Program.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day4\\CashporEshope\\MvcWebApp\\Program.cs",
+              "RelativeToolTip": "MvcWebApp\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:45:38.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CatalogItemController.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day4\\CashporEshope\\ProductCatalog.API\\Controllers\\CatalogItemController.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Controllers\\CatalogItemController.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day4\\CashporEshope\\ProductCatalog.API\\Controllers\\CatalogItemController.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Controllers\\CatalogItemController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:30:35.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day4\\CashporEshope\\ProductCatalog.API\\Program.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Program.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day4\\CashporEshope\\ProductCatalog.API\\Program.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAASwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:36:01.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CatalogItemBO.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day4\\CashporEshope\\ProductCatalog.BusinessObjects\\CatalogItemBO.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.BusinessObjects\\CatalogItemBO.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day4\\CashporEshope\\ProductCatalog.BusinessObjects\\CatalogItemBO.cs",
+              "RelativeToolTip": "ProductCatalog.BusinessObjects\\CatalogItemBO.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA7wCkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:32:21.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CatalogGenericReposiotry.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day4\\CashporEshope\\ProductCatalog.EFRepositories\\CatalogGenericReposiotry.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.EFRepositories\\CatalogGenericReposiotry.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day4\\CashporEshope\\ProductCatalog.EFRepositories\\CatalogGenericReposiotry.cs",
+              "RelativeToolTip": "ProductCatalog.EFRepositories\\CatalogGenericReposiotry.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAABCwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:32:39.561Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

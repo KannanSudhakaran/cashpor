@@ -8,5 +8,21 @@
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductCatalog.API.Controllers.CatalogItemController",
+    "Method": "PostCatalogItem",
+    "RelativePath": "api/CatalogItem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "item",
+        "Type": "ProductCatalog.Domain.CatalogItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

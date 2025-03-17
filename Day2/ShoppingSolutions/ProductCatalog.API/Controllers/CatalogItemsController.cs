@@ -32,7 +32,10 @@ namespace ProductCatalog.API.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<CatalogItem>> GetCatalogItem(int id)
         {
-            var catalogItem = await _context.CatalogItems.FindAsync(id);
+            var catalogItem = await _context.CatalogItems.Include("CatalogBrand")
+                                    .Include("CatalogType")
+                                    .FirstOrDefaultAsync(x => x.Id == id)
+                ;
 
             if (catalogItem == null)
             {
