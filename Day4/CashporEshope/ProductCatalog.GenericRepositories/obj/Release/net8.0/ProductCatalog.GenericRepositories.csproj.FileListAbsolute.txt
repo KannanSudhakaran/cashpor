@@ -1,0 +1,16 @@
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\CashporEshope\ProductCatalog.GenericRepositories\bin\Release\net8.0\ProductCatalog.GenericRepositories.deps.json
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\CashporEshope\ProductCatalog.GenericRepositories\bin\Release\net8.0\ProductCatalog.GenericRepositories.dll
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\CashporEshope\ProductCatalog.GenericRepositories\bin\Release\net8.0\ProductCatalog.GenericRepositories.pdb
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\CashporEshope\ProductCatalog.GenericRepositories\bin\Release\net8.0\ProductCatalog.Domain.dll
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\CashporEshope\ProductCatalog.GenericRepositories\bin\Release\net8.0\ProductCatalog.Domain.pdb
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\CashporEshope\ProductCatalog.GenericRepositories\obj\Release\net8.0\ProductCatalog.GenericRepositories.csproj.AssemblyReference.cache
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\CashporEshope\ProductCatalog.GenericRepositories\obj\Release\net8.0\ProductCatalog.GenericRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\CashporEshope\ProductCatalog.GenericRepositories\obj\Release\net8.0\ProductCatalog.GenericRepositories.AssemblyInfoInputs.cache
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\CashporEshope\ProductCatalog.GenericRepositories\obj\Release\net8.0\ProductCatalog.GenericRepositories.AssemblyInfo.cs
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\CashporEshope\ProductCatalog.GenericRepositories\obj\Release\net8.0\ProductCatalog.GenericRepositories.csproj.CoreCompileInputs.cache
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\CashporEshope\ProductCatalog.GenericRepositories\obj\Release\net8.0\ProductCatalog.GenericRepositories.sourcelink.json
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\CashporEshope\ProductCatalog.GenericRepositories\obj\Release\net8.0\ProductC.C43061A3.Up2Date
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\CashporEshope\ProductCatalog.GenericRepositories\obj\Release\net8.0\ProductCatalog.GenericRepositories.dll
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\CashporEshope\ProductCatalog.GenericRepositories\obj\Release\net8.0\refint\ProductCatalog.GenericRepositories.dll
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\CashporEshope\ProductCatalog.GenericRepositories\obj\Release\net8.0\ProductCatalog.GenericRepositories.pdb
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\CashporEshope\ProductCatalog.GenericRepositories\obj\Release\net8.0\ref\ProductCatalog.GenericRepositories.dll

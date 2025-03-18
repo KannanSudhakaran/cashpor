@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FixedDepositCoreLib.Model.FixedDeposit">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgIAAAAAAAAAAAABAAgAAAAAAAAAAAAAAAgCAAAAA=</HashCode>
+      <FileName>Model\FixedDeposit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="FixedDepositCoreLib.Model.IRatePolicy">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\IRatePolicy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

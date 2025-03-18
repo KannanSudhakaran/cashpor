@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UnitonBankClientApp/1.0.0": {
+        "dependencies": {
+          "FixedDepositCoreLib": "1.0.0"
+        },
+        "runtime": {
+          "UnitonBankClientApp.dll": {}
+        }
+      },
+      "FixedDepositCoreLib/1.0.0": {
+        "runtime": {
+          "FixedDepositCoreLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UnitonBankClientApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FixedDepositCoreLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\OpenClosedSolution\OpenClosedSolution\bin\Debug\net8.0\OpenClosedSolution.exe
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\OpenClosedSolution\OpenClosedSolution\bin\Debug\net8.0\OpenClosedSolution.deps.json
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\OpenClosedSolution\OpenClosedSolution\bin\Debug\net8.0\OpenClosedSolution.runtimeconfig.json
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\OpenClosedSolution\OpenClosedSolution\bin\Debug\net8.0\OpenClosedSolution.dll
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\OpenClosedSolution\OpenClosedSolution\bin\Debug\net8.0\OpenClosedSolution.pdb
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\OpenClosedSolution\OpenClosedSolution\obj\Debug\net8.0\OpenClosedSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\OpenClosedSolution\OpenClosedSolution\obj\Debug\net8.0\OpenClosedSolution.AssemblyInfoInputs.cache
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\OpenClosedSolution\OpenClosedSolution\obj\Debug\net8.0\OpenClosedSolution.AssemblyInfo.cs
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\OpenClosedSolution\OpenClosedSolution\obj\Debug\net8.0\OpenClosedSolution.csproj.CoreCompileInputs.cache
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\OpenClosedSolution\OpenClosedSolution\obj\Debug\net8.0\OpenClosedSolution.sourcelink.json
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\OpenClosedSolution\OpenClosedSolution\obj\Debug\net8.0\OpenClosedSolution.dll
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\OpenClosedSolution\OpenClosedSolution\obj\Debug\net8.0\refint\OpenClosedSolution.dll
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\OpenClosedSolution\OpenClosedSolution\obj\Debug\net8.0\OpenClosedSolution.pdb
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\OpenClosedSolution\OpenClosedSolution\obj\Debug\net8.0\OpenClosedSolution.genruntimeconfig.cache
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\Day3\OpenClosedSolution\OpenClosedSolution\obj\Debug\net8.0\ref\OpenClosedSolution.dll

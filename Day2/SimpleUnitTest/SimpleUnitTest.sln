@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcuBusinessLogicLib", "CalcuBusinessLogicLib\CalcuBusinessLogicLib.csproj", "{3522BF44-482E-412A-B816-9CFA39DF4D03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcBusinesLogicLib.Tests", "CalcBusinesLogicLib.Tests\CalcBusinesLogicLib.Tests.csproj", "{B2B3CC73-B4A6-4FFC-A13B-CC3C19E37F8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3522BF44-482E-412A-B816-9CFA39DF4D03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3522BF44-482E-412A-B816-9CFA39DF4D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3522BF44-482E-412A-B816-9CFA39DF4D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3522BF44-482E-412A-B816-9CFA39DF4D03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2B3CC73-B4A6-4FFC-A13B-CC3C19E37F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B3CC73-B4A6-4FFC-A13B-CC3C19E37F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B3CC73-B4A6-4FFC-A13B-CC3C19E37F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B3CC73-B4A6-4FFC-A13B-CC3C19E37F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00D675DE-2960-4A9F-B1E2-6D76ED6CD7A3}
+	EndGlobalSection
+EndGlobal

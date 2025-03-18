@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day2\\ShoppingSolutions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC48AA79-4015-49D1-BD8D-9DC387A228BC}|ProductCatalog.API\\ProductCatalog.API.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day2\\shoppingsolutions\\productcatalog.api\\controllers\\catalogtypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC48AA79-4015-49D1-BD8D-9DC387A228BC}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\controllers\\catalogtypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC48AA79-4015-49D1-BD8D-9DC387A228BC}|ProductCatalog.API\\ProductCatalog.API.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day2\\shoppingsolutions\\productcatalog.api\\controllers\\catalogitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC48AA79-4015-49D1-BD8D-9DC387A228BC}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\controllers\\catalogitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC48AA79-4015-49D1-BD8D-9DC387A228BC}|ProductCatalog.API\\ProductCatalog.API.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day2\\shoppingsolutions\\productcatalog.api\\domain\\catalogitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC48AA79-4015-49D1-BD8D-9DC387A228BC}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\domain\\catalogitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC48AA79-4015-49D1-BD8D-9DC387A228BC}|ProductCatalog.API\\ProductCatalog.API.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day2\\shoppingsolutions\\productcatalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC48AA79-4015-49D1-BD8D-9DC387A228BC}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC48AA79-4015-49D1-BD8D-9DC387A228BC}|ProductCatalog.API\\ProductCatalog.API.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day2\\shoppingsolutions\\productcatalog.api\\controllers\\catalogbrandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC48AA79-4015-49D1-BD8D-9DC387A228BC}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\controllers\\catalogbrandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC48AA79-4015-49D1-BD8D-9DC387A228BC}|ProductCatalog.API\\ProductCatalog.API.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day2\\shoppingsolutions\\productcatalog.api\\data\\productcatalogseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC48AA79-4015-49D1-BD8D-9DC387A228BC}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\data\\productcatalogseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC48AA79-4015-49D1-BD8D-9DC387A228BC}|ProductCatalog.API\\ProductCatalog.API.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day2\\shoppingsolutions\\productcatalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC48AA79-4015-49D1-BD8D-9DC387A228BC}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC48AA79-4015-49D1-BD8D-9DC387A228BC}|ProductCatalog.API\\ProductCatalog.API.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day2\\shoppingsolutions\\productcatalog.api\\data\\productcataglobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC48AA79-4015-49D1-BD8D-9DC387A228BC}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\data\\productcataglobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC48AA79-4015-49D1-BD8D-9DC387A228BC}|ProductCatalog.API\\ProductCatalog.API.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day2\\shoppingsolutions\\productcatalog.api\\productcatalog.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EC48AA79-4015-49D1-BD8D-9DC387A228BC}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\productcatalog.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC48AA79-4015-49D1-BD8D-9DC387A228BC}|ProductCatalog.API\\ProductCatalog.API.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day2\\shoppingsolutions\\productcatalog.api\\productcatalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC48AA79-4015-49D1-BD8D-9DC387A228BC}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\productcatalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC48AA79-4015-49D1-BD8D-9DC387A228BC}|ProductCatalog.API\\ProductCatalog.API.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day2\\shoppingsolutions\\productcatalog.api\\domain\\catalogbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC48AA79-4015-49D1-BD8D-9DC387A228BC}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\domain\\catalogbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatalogItemsController.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\Controllers\\CatalogItemsController.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Controllers\\CatalogItemsController.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\Controllers\\CatalogItemsController.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Controllers\\CatalogItemsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:01:35.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\appsettings.json",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\appsettings.json",
+              "RelativeToolTip": "ProductCatalog.API\\appsettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T04:52:32.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductCatalog.API.http",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\ProductCatalog.API.http",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\ProductCatalog.API.http",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\ProductCatalog.API.http",
+              "RelativeToolTip": "ProductCatalog.API\\ProductCatalog.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-11T06:23:49.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatalogItem.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\Domain\\CatalogItem.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Domain\\CatalogItem.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\Domain\\CatalogItem.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Domain\\CatalogItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T04:45:46.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatalogTypesController.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\Controllers\\CatalogTypesController.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Controllers\\CatalogTypesController.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\Controllers\\CatalogTypesController.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Controllers\\CatalogTypesController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowDMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T05:40:26.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductCatalogSeed.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\Data\\ProductCatalogSeed.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Data\\ProductCatalogSeed.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\Data\\ProductCatalogSeed.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Data\\ProductCatalogSeed.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:17:00.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CatalogBrandsController.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\Controllers\\CatalogBrandsController.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Controllers\\CatalogBrandsController.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\Controllers\\CatalogBrandsController.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Controllers\\CatalogBrandsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T05:59:13.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductCataglobDbContext.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\Data\\ProductCataglobDbContext.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Data\\ProductCataglobDbContext.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\Data\\ProductCataglobDbContext.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Data\\ProductCataglobDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAEBAwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T05:44:12.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\Program.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Program.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\Program.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T04:49:24.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductCatalog.API.csproj",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\ProductCatalog.API.csproj",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\ProductCatalog.API.csproj",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\ProductCatalog.API.csproj",
+              "RelativeToolTip": "ProductCatalog.API\\ProductCatalog.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T05:48:49.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CatalogBrand.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\Domain\\CatalogBrand.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Domain\\CatalogBrand.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day2\\ShoppingSolutions\\ProductCatalog.API\\Domain\\CatalogBrand.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Domain\\CatalogBrand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T04:45:15.357Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\LiveSessionKoenig\LiveDesignPatterns\Day1\OCpSln\OCPViolation\bin\Debug\net6.0\OCPViolation.exe
+C:\LiveSessionKoenig\LiveDesignPatterns\Day1\OCpSln\OCPViolation\bin\Debug\net6.0\OCPViolation.deps.json
+C:\LiveSessionKoenig\LiveDesignPatterns\Day1\OCpSln\OCPViolation\bin\Debug\net6.0\OCPViolation.runtimeconfig.json
+C:\LiveSessionKoenig\LiveDesignPatterns\Day1\OCpSln\OCPViolation\bin\Debug\net6.0\OCPViolation.dll
+C:\LiveSessionKoenig\LiveDesignPatterns\Day1\OCpSln\OCPViolation\bin\Debug\net6.0\OCPViolation.pdb
+C:\LiveSessionKoenig\LiveDesignPatterns\Day1\OCpSln\OCPViolation\obj\Debug\net6.0\OCPViolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\LiveDesignPatterns\Day1\OCpSln\OCPViolation\obj\Debug\net6.0\OCPViolation.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\LiveDesignPatterns\Day1\OCpSln\OCPViolation\obj\Debug\net6.0\OCPViolation.AssemblyInfo.cs
+C:\LiveSessionKoenig\LiveDesignPatterns\Day1\OCpSln\OCPViolation\obj\Debug\net6.0\OCPViolation.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\LiveDesignPatterns\Day1\OCpSln\OCPViolation\obj\Debug\net6.0\OCPViolation.dll
+C:\LiveSessionKoenig\LiveDesignPatterns\Day1\OCpSln\OCPViolation\obj\Debug\net6.0\refint\OCPViolation.dll
+C:\LiveSessionKoenig\LiveDesignPatterns\Day1\OCpSln\OCPViolation\obj\Debug\net6.0\OCPViolation.pdb
+C:\LiveSessionKoenig\LiveDesignPatterns\Day1\OCpSln\OCPViolation\obj\Debug\net6.0\OCPViolation.genruntimeconfig.cache
+C:\LiveSessionKoenig\LiveDesignPatterns\Day1\OCpSln\OCPViolation\obj\Debug\net6.0\ref\OCPViolation.dll

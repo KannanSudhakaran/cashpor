@@ -1,0 +1,11 @@
+C:\LiveSessionKoenig\LiveDesignPatterns\Day1\OCpSln\FixedDepositCoreLib\bin\Debug\net6.0\FixedDepositCoreLib.deps.json
+C:\LiveSessionKoenig\LiveDesignPatterns\Day1\OCpSln\FixedDepositCoreLib\bin\Debug\net6.0\FixedDepositCoreLib.dll
+C:\LiveSessionKoenig\LiveDesignPatterns\Day1\OCpSln\FixedDepositCoreLib\bin\Debug\net6.0\FixedDepositCoreLib.pdb
+C:\LiveSessionKoenig\LiveDesignPatterns\Day1\OCpSln\FixedDepositCoreLib\obj\Debug\net6.0\FixedDepositCoreLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\LiveDesignPatterns\Day1\OCpSln\FixedDepositCoreLib\obj\Debug\net6.0\FixedDepositCoreLib.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\LiveDesignPatterns\Day1\OCpSln\FixedDepositCoreLib\obj\Debug\net6.0\FixedDepositCoreLib.AssemblyInfo.cs
+C:\LiveSessionKoenig\LiveDesignPatterns\Day1\OCpSln\FixedDepositCoreLib\obj\Debug\net6.0\FixedDepositCoreLib.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\LiveDesignPatterns\Day1\OCpSln\FixedDepositCoreLib\obj\Debug\net6.0\FixedDepositCoreLib.dll
+C:\LiveSessionKoenig\LiveDesignPatterns\Day1\OCpSln\FixedDepositCoreLib\obj\Debug\net6.0\refint\FixedDepositCoreLib.dll
+C:\LiveSessionKoenig\LiveDesignPatterns\Day1\OCpSln\FixedDepositCoreLib\obj\Debug\net6.0\FixedDepositCoreLib.pdb
+C:\LiveSessionKoenig\LiveDesignPatterns\Day1\OCpSln\FixedDepositCoreLib\obj\Debug\net6.0\ref\FixedDepositCoreLib.dll

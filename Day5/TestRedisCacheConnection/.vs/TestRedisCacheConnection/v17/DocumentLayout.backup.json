@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day5\\TestRedisCacheConnection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42EBFB0F-C1EF-433C-A09B-EA3B648C954A}|TestRedisCacheConnection\\TestRedisCacheConnection.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day5\\testrediscacheconnection\\testrediscacheconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EBFB0F-C1EF-433C-A09B-EA3B648C954A}|TestRedisCacheConnection\\TestRedisCacheConnection.csproj|solutionrelative:testrediscacheconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EBFB0F-C1EF-433C-A09B-EA3B648C954A}|TestRedisCacheConnection\\TestRedisCacheConnection.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day5\\testrediscacheconnection\\testrediscacheconnection\\testrediscacheconnection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42EBFB0F-C1EF-433C-A09B-EA3B648C954A}|TestRedisCacheConnection\\TestRedisCacheConnection.csproj|solutionrelative:testrediscacheconnection\\testrediscacheconnection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestRedisCacheConnection",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day5\\TestRedisCacheConnection\\TestRedisCacheConnection\\TestRedisCacheConnection.csproj",
+              "RelativeDocumentMoniker": "TestRedisCacheConnection\\TestRedisCacheConnection.csproj",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day5\\TestRedisCacheConnection\\TestRedisCacheConnection\\TestRedisCacheConnection.csproj",
+              "RelativeToolTip": "TestRedisCacheConnection\\TestRedisCacheConnection.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-18T04:23:50.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day5\\TestRedisCacheConnection\\TestRedisCacheConnection\\Program.cs",
+              "RelativeDocumentMoniker": "TestRedisCacheConnection\\Program.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day5\\TestRedisCacheConnection\\TestRedisCacheConnection\\Program.cs",
+              "RelativeToolTip": "TestRedisCacheConnection\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:23:12.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

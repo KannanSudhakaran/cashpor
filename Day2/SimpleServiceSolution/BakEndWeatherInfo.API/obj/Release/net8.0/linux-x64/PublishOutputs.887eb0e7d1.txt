@@ -1,0 +1,11 @@
+C:\KOENIG\LiveSessions\MicroservicesCashpor\Day2\SimpleServiceSolution\BakEndWeatherInfo.API\obj\Release\net8.0\linux-x64\PubTmp\Out\BakEndWeatherInfo.API
+C:\KOENIG\LiveSessions\MicroservicesCashpor\Day2\SimpleServiceSolution\BakEndWeatherInfo.API\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.Development.json
+C:\KOENIG\LiveSessions\MicroservicesCashpor\Day2\SimpleServiceSolution\BakEndWeatherInfo.API\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.json
+C:\KOENIG\LiveSessions\MicroservicesCashpor\Day2\SimpleServiceSolution\BakEndWeatherInfo.API\obj\Release\net8.0\linux-x64\PubTmp\Out\BakEndWeatherInfo.API.dll
+C:\KOENIG\LiveSessions\MicroservicesCashpor\Day2\SimpleServiceSolution\BakEndWeatherInfo.API\obj\Release\net8.0\linux-x64\PubTmp\Out\BakEndWeatherInfo.API.deps.json
+C:\KOENIG\LiveSessions\MicroservicesCashpor\Day2\SimpleServiceSolution\BakEndWeatherInfo.API\obj\Release\net8.0\linux-x64\PubTmp\Out\BakEndWeatherInfo.API.runtimeconfig.json
+C:\KOENIG\LiveSessions\MicroservicesCashpor\Day2\SimpleServiceSolution\BakEndWeatherInfo.API\obj\Release\net8.0\linux-x64\PubTmp\Out\BakEndWeatherInfo.API.pdb
+C:\KOENIG\LiveSessions\MicroservicesCashpor\Day2\SimpleServiceSolution\BakEndWeatherInfo.API\obj\Release\net8.0\linux-x64\PubTmp\Out\Microsoft.OpenApi.dll
+C:\KOENIG\LiveSessions\MicroservicesCashpor\Day2\SimpleServiceSolution\BakEndWeatherInfo.API\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\KOENIG\LiveSessions\MicroservicesCashpor\Day2\SimpleServiceSolution\BakEndWeatherInfo.API\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\KOENIG\LiveSessions\MicroservicesCashpor\Day2\SimpleServiceSolution\BakEndWeatherInfo.API\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

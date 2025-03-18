@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "hJNCaYngxTqSmf/uPpumFDjnmWEhx8xhOOUnEmhpZI8=",
+  "Source": "BakEndWeatherInfo.API",
+  "BasePath": "_content/BakEndWeatherInfo.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

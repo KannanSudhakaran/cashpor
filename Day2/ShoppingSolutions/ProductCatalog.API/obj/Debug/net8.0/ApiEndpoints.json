@@ -1,0 +1,329 @@
+[
+  {
+    "ContainingType": "ProductCatalog.API.Controllers.CatalogBrandsController",
+    "Method": "GetCatalogBrands",
+    "RelativePath": "api/v1/CatalogBrands",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ProductCatalog.API.Domain.CatalogBrand, ProductCatalog.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProductCatalog.API.Controllers.CatalogBrandsController",
+    "Method": "PostCatalogBrand",
+    "RelativePath": "api/v1/CatalogBrands",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "catalogBrand",
+        "Type": "ProductCatalog.API.Domain.CatalogBrand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProductCatalog.API.Domain.CatalogBrand",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProductCatalog.API.Controllers.CatalogBrandsController",
+    "Method": "GetCatalogBrand",
+    "RelativePath": "api/v1/CatalogBrands/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProductCatalog.API.Domain.CatalogBrand",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProductCatalog.API.Controllers.CatalogBrandsController",
+    "Method": "PutCatalogBrand",
+    "RelativePath": "api/v1/CatalogBrands/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "catalogBrand",
+        "Type": "ProductCatalog.API.Domain.CatalogBrand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductCatalog.API.Controllers.CatalogBrandsController",
+    "Method": "DeleteCatalogBrand",
+    "RelativePath": "api/v1/CatalogBrands/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductCatalog.API.Controllers.CatalogItemsController",
+    "Method": "GetCatalogItems",
+    "RelativePath": "api/v1/CatalogItems",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ProductCatalog.API.Domain.CatalogItem, ProductCatalog.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProductCatalog.API.Controllers.CatalogItemsController",
+    "Method": "PostCatalogItem",
+    "RelativePath": "api/v1/CatalogItems",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "catalogItem",
+        "Type": "ProductCatalog.API.Domain.CatalogItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProductCatalog.API.Domain.CatalogItem",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProductCatalog.API.Controllers.CatalogItemsController",
+    "Method": "GetCatalogItem",
+    "RelativePath": "api/v1/CatalogItems/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProductCatalog.API.Domain.CatalogItem",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProductCatalog.API.Controllers.CatalogItemsController",
+    "Method": "PutCatalogItem",
+    "RelativePath": "api/v1/CatalogItems/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "catalogItem",
+        "Type": "ProductCatalog.API.Domain.CatalogItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductCatalog.API.Controllers.CatalogItemsController",
+    "Method": "DeleteCatalogItem",
+    "RelativePath": "api/v1/CatalogItems/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductCatalog.API.Controllers.CatalogTypesController",
+    "Method": "GetCatalogType",
+    "RelativePath": "api/v1/CatalogTypes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ProductCatalog.API.Domain.CatalogType, ProductCatalog.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProductCatalog.API.Controllers.CatalogTypesController",
+    "Method": "PostCatalogType",
+    "RelativePath": "api/v1/CatalogTypes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "catalogType",
+        "Type": "ProductCatalog.API.Domain.CatalogType",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProductCatalog.API.Domain.CatalogType",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProductCatalog.API.Controllers.CatalogTypesController",
+    "Method": "GetCatalogType",
+    "RelativePath": "api/v1/CatalogTypes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProductCatalog.API.Domain.CatalogType",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProductCatalog.API.Controllers.CatalogTypesController",
+    "Method": "PutCatalogType",
+    "RelativePath": "api/v1/CatalogTypes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "catalogType",
+        "Type": "ProductCatalog.API.Domain.CatalogType",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductCatalog.API.Controllers.CatalogTypesController",
+    "Method": "DeleteCatalogType",
+    "RelativePath": "api/v1/CatalogTypes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

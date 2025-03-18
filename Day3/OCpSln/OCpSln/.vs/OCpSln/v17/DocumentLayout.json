@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABF7652-FFF7-4707-AE62-78358BC8EB79}|FixedDepositCoreLib\\FixedDepositCoreLib.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\day3\\ocpsln\\ocpsln\\fixeddepositcorelib\\model\\fixeddeposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ABF7652-FFF7-4707-AE62-78358BC8EB79}|FixedDepositCoreLib\\FixedDepositCoreLib.csproj|solutionrelative:fixeddepositcorelib\\model\\fixeddeposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76BAAE3-9B79-41C4-BE31-8594D75F4008}|HDFCBankClientApp\\HDFCBankClientApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\day3\\ocpsln\\ocpsln\\hdfcbankclientapp\\hdfcbankclientapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A76BAAE3-9B79-41C4-BE31-8594D75F4008}|HDFCBankClientApp\\HDFCBankClientApp.csproj|solutionrelative:hdfcbankclientapp\\hdfcbankclientapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABF7652-FFF7-4707-AE62-78358BC8EB79}|FixedDepositCoreLib\\FixedDepositCoreLib.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\day3\\ocpsln\\ocpsln\\fixeddepositcorelib\\fixeddepositcorelib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7ABF7652-FFF7-4707-AE62-78358BC8EB79}|FixedDepositCoreLib\\FixedDepositCoreLib.csproj|solutionrelative:fixeddepositcorelib\\fixeddepositcorelib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFCB30E-D02C-41BF-B8A1-4B07288055D8}|UnitonBankClientApp\\UnitonBankClientApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\day3\\ocpsln\\ocpsln\\unitonbankclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFCB30E-D02C-41BF-B8A1-4B07288055D8}|UnitonBankClientApp\\UnitonBankClientApp.csproj|solutionrelative:unitonbankclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFCB30E-D02C-41BF-B8A1-4B07288055D8}|UnitonBankClientApp\\UnitonBankClientApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\day3\\ocpsln\\ocpsln\\unitonbankclientapp\\quarterlypolicy\\quarteronepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFCB30E-D02C-41BF-B8A1-4B07288055D8}|UnitonBankClientApp\\UnitonBankClientApp.csproj|solutionrelative:unitonbankclientapp\\quarterlypolicy\\quarteronepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76BAAE3-9B79-41C4-BE31-8594D75F4008}|HDFCBankClientApp\\HDFCBankClientApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\day3\\ocpsln\\ocpsln\\hdfcbankclientapp\\festivalpolicy\\newyearpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76BAAE3-9B79-41C4-BE31-8594D75F4008}|HDFCBankClientApp\\HDFCBankClientApp.csproj|solutionrelative:hdfcbankclientapp\\festivalpolicy\\newyearpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76BAAE3-9B79-41C4-BE31-8594D75F4008}|HDFCBankClientApp\\HDFCBankClientApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\day3\\ocpsln\\ocpsln\\hdfcbankclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76BAAE3-9B79-41C4-BE31-8594D75F4008}|HDFCBankClientApp\\HDFCBankClientApp.csproj|solutionrelative:hdfcbankclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76BAAE3-9B79-41C4-BE31-8594D75F4008}|HDFCBankClientApp\\HDFCBankClientApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\day3\\ocpsln\\ocpsln\\hdfcbankclientapp\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{A76BAAE3-9B79-41C4-BE31-8594D75F4008}|HDFCBankClientApp\\HDFCBankClientApp.csproj|solutionrelative:hdfcbankclientapp\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABF7652-FFF7-4707-AE62-78358BC8EB79}|FixedDepositCoreLib\\FixedDepositCoreLib.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\day3\\ocpsln\\ocpsln\\fixeddepositcorelib\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{7ABF7652-FFF7-4707-AE62-78358BC8EB79}|FixedDepositCoreLib\\FixedDepositCoreLib.csproj|solutionrelative:fixeddepositcorelib\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D2CFE5-3CBD-4672-8F04-176725559BF4}|OCPViolation\\OCPViolation.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\day3\\ocpsln\\ocpsln\\ocpviolation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D2CFE5-3CBD-4672-8F04-176725559BF4}|OCPViolation\\OCPViolation.csproj|solutionrelative:ocpviolation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABF7652-FFF7-4707-AE62-78358BC8EB79}|FixedDepositCoreLib\\FixedDepositCoreLib.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\day3\\ocpsln\\ocpsln\\fixeddepositcorelib\\model\\iratepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ABF7652-FFF7-4707-AE62-78358BC8EB79}|FixedDepositCoreLib\\FixedDepositCoreLib.csproj|solutionrelative:fixeddepositcorelib\\model\\iratepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABF7652-FFF7-4707-AE62-78358BC8EB79}|FixedDepositCoreLib\\FixedDepositCoreLib.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\day3\\ocpsln\\ocpsln\\fixeddepositcorelib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ABF7652-FFF7-4707-AE62-78358BC8EB79}|FixedDepositCoreLib\\FixedDepositCoreLib.csproj|solutionrelative:fixeddepositcorelib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D2CFE5-3CBD-4672-8F04-176725559BF4}|OCPViolation\\OCPViolation.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\day3\\ocpsln\\ocpsln\\ocpviolation\\model\\fixeddeposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D2CFE5-3CBD-4672-8F04-176725559BF4}|OCPViolation\\OCPViolation.csproj|solutionrelative:ocpviolation\\model\\fixeddeposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D2CFE5-3CBD-4672-8F04-176725559BF4}|OCPViolation\\OCPViolation.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\day3\\ocpsln\\ocpsln\\ocpviolation\\model\\festivaltypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D2CFE5-3CBD-4672-8F04-176725559BF4}|OCPViolation\\OCPViolation.csproj|solutionrelative:ocpviolation\\model\\festivaltypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FixedDeposit.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\FixedDepositCoreLib\\Model\\FixedDeposit.cs",
+              "RelativeDocumentMoniker": "FixedDepositCoreLib\\Model\\FixedDeposit.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\FixedDepositCoreLib\\Model\\FixedDeposit.cs",
+              "RelativeToolTip": "FixedDepositCoreLib\\Model\\FixedDeposit.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:58:04.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuarterOnePolicy.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\UnitonBankClientApp\\QuarterlyPolicy\\QuarterOnePolicy.cs",
+              "RelativeDocumentMoniker": "UnitonBankClientApp\\QuarterlyPolicy\\QuarterOnePolicy.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\UnitonBankClientApp\\QuarterlyPolicy\\QuarterOnePolicy.cs",
+              "RelativeToolTip": "UnitonBankClientApp\\QuarterlyPolicy\\QuarterOnePolicy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:58:04.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\UnitonBankClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "UnitonBankClientApp\\Program.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\UnitonBankClientApp\\Program.cs",
+              "RelativeToolTip": "UnitonBankClientApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:58:04.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FixedDepositCoreLib.csproj",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\FixedDepositCoreLib\\FixedDepositCoreLib.csproj",
+              "RelativeDocumentMoniker": "FixedDepositCoreLib\\FixedDepositCoreLib.csproj",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\FixedDepositCoreLib\\FixedDepositCoreLib.csproj",
+              "RelativeToolTip": "FixedDepositCoreLib\\FixedDepositCoreLib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-12T03:58:04.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HDFCBankClientApp.csproj",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\HDFCBankClientApp\\HDFCBankClientApp.csproj",
+              "RelativeDocumentMoniker": "HDFCBankClientApp\\HDFCBankClientApp.csproj",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\HDFCBankClientApp\\HDFCBankClientApp.csproj",
+              "RelativeToolTip": "HDFCBankClientApp\\HDFCBankClientApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-12T03:58:04.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewYearPolicy.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\HDFCBankClientApp\\FestivalPolicy\\NewYearPolicy.cs",
+              "RelativeDocumentMoniker": "HDFCBankClientApp\\FestivalPolicy\\NewYearPolicy.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\HDFCBankClientApp\\FestivalPolicy\\NewYearPolicy.cs",
+              "RelativeToolTip": "HDFCBankClientApp\\FestivalPolicy\\NewYearPolicy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:58:04.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\HDFCBankClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "HDFCBankClientApp\\Program.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\HDFCBankClientApp\\Program.cs",
+              "RelativeToolTip": "HDFCBankClientApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:58:04.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\HDFCBankClientApp\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "HDFCBankClientApp\\ClassDiagram1.cd",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\HDFCBankClientApp\\ClassDiagram1.cd",
+              "RelativeToolTip": "HDFCBankClientApp\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-03-12T03:58:04.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\FixedDepositCoreLib\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "FixedDepositCoreLib\\ClassDiagram1.cd",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\FixedDepositCoreLib\\ClassDiagram1.cd",
+              "RelativeToolTip": "FixedDepositCoreLib\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-03-12T03:58:04.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRatePolicy.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\FixedDepositCoreLib\\Model\\IRatePolicy.cs",
+              "RelativeDocumentMoniker": "FixedDepositCoreLib\\Model\\IRatePolicy.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\FixedDepositCoreLib\\Model\\IRatePolicy.cs",
+              "RelativeToolTip": "FixedDepositCoreLib\\Model\\IRatePolicy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:58:04.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\OCPViolation\\Program.cs",
+              "RelativeDocumentMoniker": "OCPViolation\\Program.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\OCPViolation\\Program.cs",
+              "RelativeToolTip": "OCPViolation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:58:04.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\FixedDepositCoreLib\\Class1.cs",
+              "RelativeDocumentMoniker": "FixedDepositCoreLib\\Class1.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\FixedDepositCoreLib\\Class1.cs",
+              "RelativeToolTip": "FixedDepositCoreLib\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:58:04.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FestivalTypes.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\OCPViolation\\Model\\FestivalTypes.cs",
+              "RelativeDocumentMoniker": "OCPViolation\\Model\\FestivalTypes.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\OCPViolation\\Model\\FestivalTypes.cs",
+              "RelativeToolTip": "OCPViolation\\Model\\FestivalTypes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:58:04.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FixedDeposit.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\OCPViolation\\Model\\FixedDeposit.cs",
+              "RelativeDocumentMoniker": "OCPViolation\\Model\\FixedDeposit.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\Day3\\OCpSln\\OCpSln\\OCPViolation\\Model\\FixedDeposit.cs",
+              "RelativeToolTip": "OCPViolation\\Model\\FixedDeposit.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wBgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:58:04.742Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

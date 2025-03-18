@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HDFCBankClientApp.FestivalPolicy.NewYearPolicy">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FestivalPolicy\NewYearPolicy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.283" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,17 @@
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\cashpor\Day5\WinFormsMulitThreadingApp\WinFormsMulitThreadingApp\bin\Debug\net8.0-windows\WinFormsMulitThreadingApp.exe
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\cashpor\Day5\WinFormsMulitThreadingApp\WinFormsMulitThreadingApp\bin\Debug\net8.0-windows\WinFormsMulitThreadingApp.deps.json
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\cashpor\Day5\WinFormsMulitThreadingApp\WinFormsMulitThreadingApp\bin\Debug\net8.0-windows\WinFormsMulitThreadingApp.runtimeconfig.json
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\cashpor\Day5\WinFormsMulitThreadingApp\WinFormsMulitThreadingApp\bin\Debug\net8.0-windows\WinFormsMulitThreadingApp.dll
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\cashpor\Day5\WinFormsMulitThreadingApp\WinFormsMulitThreadingApp\bin\Debug\net8.0-windows\WinFormsMulitThreadingApp.pdb
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\cashpor\Day5\WinFormsMulitThreadingApp\WinFormsMulitThreadingApp\obj\Debug\net8.0-windows\WinFormsMulitThreadingApp.Form1.resources
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\cashpor\Day5\WinFormsMulitThreadingApp\WinFormsMulitThreadingApp\obj\Debug\net8.0-windows\WinFormsMulitThreadingApp.csproj.GenerateResource.cache
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\cashpor\Day5\WinFormsMulitThreadingApp\WinFormsMulitThreadingApp\obj\Debug\net8.0-windows\WinFormsMulitThreadingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\cashpor\Day5\WinFormsMulitThreadingApp\WinFormsMulitThreadingApp\obj\Debug\net8.0-windows\WinFormsMulitThreadingApp.AssemblyInfoInputs.cache
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\cashpor\Day5\WinFormsMulitThreadingApp\WinFormsMulitThreadingApp\obj\Debug\net8.0-windows\WinFormsMulitThreadingApp.AssemblyInfo.cs
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\cashpor\Day5\WinFormsMulitThreadingApp\WinFormsMulitThreadingApp\obj\Debug\net8.0-windows\WinFormsMulitThreadingApp.csproj.CoreCompileInputs.cache
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\cashpor\Day5\WinFormsMulitThreadingApp\WinFormsMulitThreadingApp\obj\Debug\net8.0-windows\WinFormsMulitThreadingApp.sourcelink.json
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\cashpor\Day5\WinFormsMulitThreadingApp\WinFormsMulitThreadingApp\obj\Debug\net8.0-windows\WinFormsMulitThreadingApp.dll
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\cashpor\Day5\WinFormsMulitThreadingApp\WinFormsMulitThreadingApp\obj\Debug\net8.0-windows\refint\WinFormsMulitThreadingApp.dll
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\cashpor\Day5\WinFormsMulitThreadingApp\WinFormsMulitThreadingApp\obj\Debug\net8.0-windows\WinFormsMulitThreadingApp.pdb
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\cashpor\Day5\WinFormsMulitThreadingApp\WinFormsMulitThreadingApp\obj\Debug\net8.0-windows\WinFormsMulitThreadingApp.genruntimeconfig.cache
+C:\KOENIG\LiveSessions\MicroservicesCashpor\cashpor\cashpor\Day5\WinFormsMulitThreadingApp\WinFormsMulitThreadingApp\obj\Debug\net8.0-windows\ref\WinFormsMulitThreadingApp.dll

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{BB127666-4B9D-4086-907C-8E5374B94ABF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MVC", "MVC", "{5D22CB64-CD81-4498-934B-1EB229119E44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BakEndWeatherInfo.API", "BakEndWeatherInfo.API\BakEndWeatherInfo.API.csproj", "{0DA2F778-9C0C-48EE-95DB-DB59D506EC94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DA2F778-9C0C-48EE-95DB-DB59D506EC94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA2F778-9C0C-48EE-95DB-DB59D506EC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA2F778-9C0C-48EE-95DB-DB59D506EC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA2F778-9C0C-48EE-95DB-DB59D506EC94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0DA2F778-9C0C-48EE-95DB-DB59D506EC94} = {BB127666-4B9D-4086-907C-8E5374B94ABF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD5251DF-6219-44E3-B981-297161DDD7E8}
+	EndGlobalSection
+EndGlobal
