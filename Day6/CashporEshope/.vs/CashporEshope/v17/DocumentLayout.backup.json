@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day6\\cashporeshope\\mvcwebapp\\models\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\models\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day6\\cashporeshope\\mvcwebapp\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day6\\cashporeshope\\mvcwebapp\\views\\basket\\_basketitems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\views\\basket\\_basketitems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day6\\cashporeshope\\mvcwebapp\\models\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\models\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day6\\cashporeshope\\mvcwebapp\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day6\\cashporeshope\\mvcwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day6\\cashporeshope\\mvcwebapp\\services\\baskethttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\services\\baskethttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F555DE-089B-4337-B386-53644831044B}|ShoppingBasket.API\\ShoppingBasket.API.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day6\\cashporeshope\\shoppingbasket.api\\domain\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F555DE-089B-4337-B386-53644831044B}|ShoppingBasket.API\\ShoppingBasket.API.csproj|solutionrelative:shoppingbasket.api\\domain\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F555DE-089B-4337-B386-53644831044B}|ShoppingBasket.API\\ShoppingBasket.API.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day6\\cashporeshope\\shoppingbasket.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F555DE-089B-4337-B386-53644831044B}|ShoppingBasket.API\\ShoppingBasket.API.csproj|solutionrelative:shoppingbasket.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day6\\cashporeshope\\mvcwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day6\\cashporeshope\\mvcwebapp\\mvcwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\mvcwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F555DE-089B-4337-B386-53644831044B}|ShoppingBasket.API\\ShoppingBasket.API.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day6\\cashporeshope\\shoppingbasket.api\\domain\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F555DE-089B-4337-B386-53644831044B}|ShoppingBasket.API\\ShoppingBasket.API.csproj|solutionrelative:shoppingbasket.api\\domain\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day6\\cashporeshope\\mvcwebapp\\services\\cataloghttpservcie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\services\\cataloghttpservcie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day6\\cashporeshope\\mvcwebapp\\views\\catalog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\views\\catalog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day6\\cashporeshope\\mvcwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day6\\cashporeshope\\mvcwebapp\\services\\ibaskethttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\services\\ibaskethttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day6\\cashporeshope\\mvcwebapp\\services\\icataloghttpservcie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\services\\icataloghttpservcie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|c:\\koenig\\livesessions\\microservicescashpor\\cashpor\\cashpor\\day6\\cashporeshope\\mvcwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B48FB4EC-3698-4EEB-B16A-61CF80C74ADE}|MvcWebApp\\MvcWebApp.csproj|solutionrelative:mvcwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Basket.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Models\\Basket.cs",
+              "RelativeDocumentMoniker": "MvcWebApp\\Models\\Basket.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Models\\Basket.cs",
+              "RelativeToolTip": "MvcWebApp\\Models\\Basket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T06:25:34.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_basketItems.cshtml",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Views\\Basket\\_basketItems.cshtml",
+              "RelativeDocumentMoniker": "MvcWebApp\\Views\\Basket\\_basketItems.cshtml",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Views\\Basket\\_basketItems.cshtml",
+              "RelativeToolTip": "MvcWebApp\\Views\\Basket\\_basketItems.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T06:22:10.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Views\\Basket\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcWebApp\\Views\\Basket\\Index.cshtml",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Views\\Basket\\Index.cshtml",
+              "RelativeToolTip": "MvcWebApp\\Views\\Basket\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T06:19:28.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwCYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T06:15:23.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasketItem.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Models\\BasketItem.cs",
+              "RelativeDocumentMoniker": "MvcWebApp\\Models\\BasketItem.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Models\\BasketItem.cs",
+              "RelativeToolTip": "MvcWebApp\\Models\\BasketItem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA3wBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T06:07:30.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "MvcWebApp\\Program.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Program.cs",
+              "RelativeToolTip": "MvcWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T05:44:42.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "MvcWebApp\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "MvcWebApp\\Controllers\\BasketController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wBQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:42:49.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\ShoppingBasket.API\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "ShoppingBasket.API\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\ShoppingBasket.API\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "ShoppingBasket.API\\Controllers\\BasketController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAlwBkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T06:06:23.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasketHttpService.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Services\\BasketHttpService.cs",
+              "RelativeDocumentMoniker": "MvcWebApp\\Services\\BasketHttpService.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Services\\BasketHttpService.cs",
+              "RelativeToolTip": "MvcWebApp\\Services\\BasketHttpService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAASwEcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:59:24.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Basket.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\ShoppingBasket.API\\Domain\\Basket.cs",
+              "RelativeDocumentMoniker": "ShoppingBasket.API\\Domain\\Basket.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\ShoppingBasket.API\\Domain\\Basket.cs",
+              "RelativeToolTip": "ShoppingBasket.API\\Domain\\Basket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T06:06:45.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MvcWebApp",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\MvcWebApp.csproj",
+              "RelativeDocumentMoniker": "MvcWebApp\\MvcWebApp.csproj",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\MvcWebApp.csproj",
+              "RelativeToolTip": "MvcWebApp\\MvcWebApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-19T06:09:36.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Views\\Catalog\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcWebApp\\Views\\Catalog\\Index.cshtml",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Views\\Catalog\\Index.cshtml",
+              "RelativeToolTip": "MvcWebApp\\Views\\Catalog\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAiwEIAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T04:38:53.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BasketItem.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\ShoppingBasket.API\\Domain\\BasketItem.cs",
+              "RelativeDocumentMoniker": "ShoppingBasket.API\\Domain\\BasketItem.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\ShoppingBasket.API\\Domain\\BasketItem.cs",
+              "RelativeToolTip": "ShoppingBasket.API\\Domain\\BasketItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T06:06:52.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CatalogHttpServcie.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Services\\CatalogHttpServcie.cs",
+              "RelativeDocumentMoniker": "MvcWebApp\\Services\\CatalogHttpServcie.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Services\\CatalogHttpServcie.cs",
+              "RelativeToolTip": "MvcWebApp\\Services\\CatalogHttpServcie.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAlwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T05:04:24.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IBasketHttpService.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Services\\IBasketHttpService.cs",
+              "RelativeDocumentMoniker": "MvcWebApp\\Services\\IBasketHttpService.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Services\\IBasketHttpService.cs",
+              "RelativeToolTip": "MvcWebApp\\Services\\IBasketHttpService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:56:34.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcWebApp\\appsettings.json",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\appsettings.json",
+              "RelativeToolTip": "MvcWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-19T04:37:26.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICatalogHttpServcie.cs",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Services\\ICatalogHttpServcie.cs",
+              "RelativeDocumentMoniker": "MvcWebApp\\Services\\ICatalogHttpServcie.cs",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Services\\ICatalogHttpServcie.cs",
+              "RelativeToolTip": "MvcWebApp\\Services\\ICatalogHttpServcie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:58:18.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\KOENIG\\LiveSessions\\MicroservicesCashpor\\cashpor\\cashpor\\Day6\\CashporEshope\\MvcWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MvcWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T04:38:47.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

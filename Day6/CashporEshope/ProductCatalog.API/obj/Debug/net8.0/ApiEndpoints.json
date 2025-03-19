@@ -1,0 +1,75 @@
+[
+  {
+    "ContainingType": "ProductCatalog.API.Controllers.CatalogItemController",
+    "Method": "GetCatalogItems",
+    "RelativePath": "api/v1/CatalogItem",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductCatalog.API.Controllers.CatalogItemController",
+    "Method": "PostCatalogItem",
+    "RelativePath": "api/v1/CatalogItem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "item",
+        "Type": "ProductCatalog.Domain.CatalogItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductCatalog.API.Controllers.CatalogItemController",
+    "Method": "PutCatalogItem",
+    "RelativePath": "api/v1/CatalogItem/{catalogItemId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "catalogItemId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "item",
+        "Type": "ProductCatalog.Domain.CatalogItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductCatalog.API.Controllers.CatalogItemController",
+    "Method": "GetCatalogItem",
+    "RelativePath": "api/v1/CatalogItem/{catalogItemId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "catalogItemId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProductCatalog.Domain.CatalogItem",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
